@@ -1,7 +1,7 @@
 # Edify
 
 git clone [url]
-cd [locate cloned repo]
+cd [locate cloned repo] <br>
 git checkout -b [create new branch to prevent overwritting main]
 git add [select or select all '.']
 git commit -m [apply changes on local repo]

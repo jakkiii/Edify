@@ -1,0 +1,1 @@
+print("Python -m venv venv, @supabase/supabase-js")
